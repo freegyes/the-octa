@@ -3,35 +3,41 @@
 hello octa.
 
 ## Specific tasks
-### Change the length of a sequence
-Press [FUNC] + [PAGE] and press [PAGE]
+### Assign parameters to a specific scene
+Hold Scene [A] or [B] and change a parameter.
 
-### Change a trakc's effect
-Press [FX*] twice
+### Change a track's effect
+Press [FX*] twice.
 
 ### Changing a track's machine type
-Press [T*] and then double tap [SRC]
+Press [T*] and then double tap [SRC].
+
+### Change the length of a sequence
+Press [FUNC] + [PAGE] and press [PAGE].
+
+### Change to a new scene
+Press and hold Scene [A] or [B] and press a trigger button.
 
 ### Clearing a text field
-[FUNC] + Clear
+[FUNC] + Clear.
 
 ### Clearing the trigs from a sequence
-Press [FUNC] + [CLEAR]
+Press [FUNC] + [CLEAR].
 
 ### Connect a device and listen to it
-Connect to an input, Press [MIX] and turn up DIR (direct monitor)
+Connect to an input, Press [MIX] and turn up DIR (direct monitor).
 
 ### Copy and paste a page of trigs
-Press [PAGE] + Copy to copy and [PAGE] + Paste to paste
+Press [PAGE] + Copy to copy and [PAGE] + Paste to paste.
 
 ### Creating a new project
-[PROJ] --> Change --> Create new empty project
+[PROJ] --> Change --> Create new empty project.
 
 ### Delete a slice
-In [AED] / Slice press [YES] while on the unwanted slice and select Selete Slice
+In [AED] / Slice press [YES] while on the unwanted slice and select Selete Slice.
 
 ### Load a recording to a Flex machine
-Double tap the [T*] button and select a recording buffer
+Double tap the [T*] button and select a recording buffer.
 
 ### Mute a track
 Press [FUNC] + [T*] to mute a track. Press it again to unmute.
@@ -40,16 +46,28 @@ Press [FUNC] + [T*] to mute a track. Press it again to unmute.
 Press [FUNC] + [V] and select Slices. Press [SRC] twice to go to SRC SETUP and turn SLIC on.
 
 ### Playing back a recording from a recording buffer
-Press [T*] + PLAY to trigger the playback manually
+Press [T*] + PLAY to trigger the playback manually.
 
 ### Recording directly to a track's recording buffer
-Press [REC1] + [T*] to start and [T*] + STOP to stop manually
+Press [REC1] + [T*] to start and [T*] + STOP to stop manually.
 
 ### Recording trigs live
 Press REC + PLAY. To activate metronome preroll, go to [PROJ] --> Control --> Metronome and activate preroll.
 
+### Reset a locked parameter
+Press on the corresponding knob to remove the lock while holding the scene or the trig button.
+
 ### Slicing a sample
 Press [AED] and go to the SLICE tab by pressing [AMP]. Use the [Level] knob to set a starting point. Press [YES] and again on Add slice here and set the end point with knob [C]. Audition with [FUNC] + [YES]. When a small, empty square shows up that means a zero-level crossing. Slice there, to avoid clicks. No need to save in the end.
+
+### Set the length of a recording
+Press [FUNC] + [REC1] and set RLEN (recording length shown in steps).
+
+### Set up Track 8 as Master Track
+Go to [PROJ] --> CONTROL --> AUDIO --> Set Track 8 as Master 
+
+### Start a recording on time automatically
+Press [FUNC] + [REC2] and set QREC (quantized recording shown in steps) .
 
 ### Trim a sample
 Press [AED] and trim the sample with the knobs. No need to save in the end.
