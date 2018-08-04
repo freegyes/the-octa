@@ -57,11 +57,17 @@ Press REC + PLAY. To activate metronome preroll, go to [PROJ] --> Control --> Me
 ### Reset a locked parameter
 Press on the corresponding knob to remove the lock while holding the scene or the trig button.
 
+### Save a recording buffer to file
+While on the track that uses the recording buffer press [AED] and go to FILE. Select SAVE AND ASSIGN SAMPLE, give the file a name and select ASSIGN TO SELF.
+
 ### Slicing a sample
 Press [AED] and go to the SLICE tab by pressing [AMP]. Use the [Level] knob to set a starting point. Press [YES] and again on Add slice here and set the end point with knob [C]. Audition with [FUNC] + [YES]. When a small, empty square shows up that means a zero-level crossing. Slice there, to avoid clicks. No need to save in the end.
 
 ### Set the length of a recording
 Press [FUNC] + [REC1] and set RLEN (recording length shown in steps).
+
+### Set up a stutter effect
+On [FX2] Setup page turn on LOCK (and optionally TAPE to off not to hear the digital imitation of tape delay when changing the delay buffer length). On the [FX2] page itself turn up FB (feedback; 127 for infinite repeats) and increase SEND to at least 1. Switch to Delay control mode by pressing [FUNC] + [V] and selecting it. Trigger keys 9-16 light up if a delay is set up on the corresponding track. 
 
 ### Set up Track 8 as Master Track
 Go to [PROJ] --> CONTROL --> AUDIO --> Set Track 8 as Master 
@@ -79,3 +85,6 @@ By default it can only be heard in the headphone out. To hear it in the master o
 
 ## Resources
 - [Cuckoo - Octatrack Tutorial #1](https://www.youtube.com/watch?v=NrhPOGzn7LI)
+
+## Project snapshots
+- [2018-08-04 - first bar on octa](https://soundcloud.com/freegyes/20180804-first-bar-on-octa)
