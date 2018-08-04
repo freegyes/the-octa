@@ -8,3 +8,6 @@ hello octa.
 
 ### Clearing a text field
 [FUNC] + Clear
+
+## Resources
+- [Cuckoo - Octatrack Tutorial #1](https://www.youtube.com/watch?v=NrhPOGzn7LI)
