@@ -6,6 +6,9 @@ hello octa.
 ### Change the length of a sequence
 Press [FUNC] + [PAGE] and press [PAGE]
 
+### Change a trakc's effect
+Press [FX*] twice
+
 ### Changing a track's machine type
 Press [T*] and then double tap [SRC]
 
@@ -18,6 +21,9 @@ Press [FUNC] + [CLEAR]
 ### Connect a device and listen to it
 Connect to an input, Press [MIX] and turn up DIR (direct monitor)
 
+### Copy and paste a page of trigs
+Press [PAGE] + Copy to copy and [PAGE] + Paste to paste
+
 ### Creating a new project
 [PROJ] --> Change --> Create new empty project
 
@@ -26,6 +32,9 @@ In [AED] / Slice press [YES] while on the unwanted slice and select Selete Slice
 
 ### Load a recording to a Flex machine
 Double tap the [T*] button and select a recording buffer
+
+### Mute a track
+Press [FUNC] + [T*] to mute a track. Press it again to unmute.
 
 ### Play slices manually using the 16 steps
 Press [FUNC] + [V] and select Slices. Press [SRC] twice to go to SRC SETUP and turn SLIC on.
