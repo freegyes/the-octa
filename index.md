@@ -12,20 +12,35 @@ Press [T*] and then double tap [SRC]
 ### Clearing a text field
 [FUNC] + Clear
 
+### Clearing the trigs from a sequence
+Press [FUNC] + [CLEAR]
+
 ### Connect a device and listen to it
 Connect to an input, Press [MIX] and turn up DIR (direct monitor)
 
 ### Creating a new project
 [PROJ] --> Change --> Create new empty project
 
+### Delete a slice
+In [AED] / Slice press [YES] while on the unwanted slice and select Selete Slice
+
 ### Load a recording to a Flex machine
 Double tap the [T*] button and select a recording buffer
+
+### Play slices manually using the 16 steps
+Press [FUNC] + [V] and select Slices. Press [SRC] twice to go to SRC SETUP and turn SLIC on.
 
 ### Playing back a recording from a recording buffer
 Press [T*] + PLAY to trigger the playback manually
 
 ### Recording directly to a track's recording buffer
 Press [REC1] + [T*] to start and [T*] + STOP to stop manually
+
+### Recording trigs live
+Press REC + PLAY. To activate metronome preroll, go to [PROJ] --> Control --> Metronome and activate preroll.
+
+### Slicing a sample
+Press [AED] and go to the SLICE tab by pressing [AMP]. Use the [Level] knob to set a starting point. Press [YES] and again on Add slice here and set the end point with knob [C]. Audition with [FUNC] + [YES]. When a small, empty square shows up that means a zero-level crossing. Slice there, to avoid clicks. No need to save in the end.
 
 ### Trim a sample
 Press [AED] and trim the sample with the knobs. No need to save in the end.
