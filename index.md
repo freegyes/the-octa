@@ -2,6 +2,13 @@
 
 hello octa.
 
+## Stories
+### Connect an external audio source and quickly record a sample from it
+Connect to an input and in the mixer turn up the DIR (direct monitor) for that input. Change a track to flex maschine, assign a recording buffer to it as a sample, record directly to the buffer and place a trig in the sequence.
+
+### Shuffle the order of the slices on the fly with the scene slider
+Slice a sample on a flex maschine, add trigs to the pattern and create linear locks. Assign an LFO to the start position. Create a new scene and lock the LFO's depth to an increased value. 
+
 ## Specific tasks
 ### Assign parameters to a specific scene
 Hold Scene [A] or [B] and change a parameter.
@@ -25,7 +32,7 @@ Press and hold Scene [A] or [B] and press a trigger button.
 Press [FUNC] + [CLEAR].
 
 ### Connect a device and listen to it
-Connect to an input, Press [MIX] and turn up DIR (direct monitor).
+Connect to an input, press [MIX] and turn up DIR (direct monitor). 
 
 ### Copy and paste a page of trigs
 Press [PAGE] + Copy to copy and [PAGE] + Paste to paste.
@@ -85,6 +92,7 @@ By default it can only be heard in the headphone out. To hear it in the master o
 
 ## Resources
 - [Cuckoo - Octatrack Tutorial #1](https://www.youtube.com/watch?v=NrhPOGzn7LI)
+  - Sets up a new project, changes maschines to flex, connects OP-1 as an audio input, directly monitors it and records samples to the recording buffer manually. Slices the samples. Uses trig keys to trigger slices. Sets effects and uses the scene slider. Sets up metronome to be heard on the master out and track 8 as a master track. Sets up stutter effect and plays with delay control.
 
 ## Project snapshots
 - [2018-08-04 - first bar on octa](https://soundcloud.com/freegyes/20180804-first-bar-on-octa)
